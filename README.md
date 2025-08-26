@@ -13,6 +13,10 @@ A classic **Tic Tac Toe** game built using **React** and **Vite**, hosted on **N
 - Winner detection and game reset functionality
 - Responsive layout to handle various screen sizes
 
+https://github.com/user-attachments/assets/2d5471bc-fd4f-4a59-9a8f-a87e65d6e102
+
+https://github.com/user-attachments/assets/7e6b7582-9f1c-4735-9527-dbcf2b01646c
+
 ---
 
 ##  Tech Stack
@@ -42,10 +46,3 @@ npm install
 npm run dev
 
 Live Link: http://127.0.0.1:5500/
-
-
-https://github.com/user-attachments/assets/2d5471bc-fd4f-4a59-9a8f-a87e65d6e102
-
-
-
-https://github.com/user-attachments/assets/929a9d73-3394-4ea8-b6ed-31f20f1ad348
