@@ -44,8 +44,8 @@ npm run dev
 Live Link: http://127.0.0.1:5500/
 
 
-<img width="700" height="526" alt="Screenshot 2025-08-26 024657" src="https://github.com/user-attachments/assets/2d5471bc-fd4f-4a59-9a8f-a87e65d6e102" />
+https://github.com/user-attachments/assets/2d5471bc-fd4f-4a59-9a8f-a87e65d6e102
 
 
 
-<img width="689" height="508" alt="Screenshot 2025-08-26 024722" src="https://github.com/user-attachments/assets/929a9d73-3394-4ea8-b6ed-31f20f1ad348" />
+https://github.com/user-attachments/assets/929a9d73-3394-4ea8-b6ed-31f20f1ad348
