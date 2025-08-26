@@ -1,12 +1,42 @@
-# React + Vite
+# Welcome to Mon'Taveon's Tic Tac Toe
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A classic **Tic Tac Toe** game built using **React** and **Vite**, hosted on **Netlify** for easy playability and deployment automation.
 
-Currently, two official plugins are available:
+[Live Demo on Netlify](https://montaveons-tic-tac-toe1.netlify.app/)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+##  Game Features
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- Standard 3×3 grid with interactive gameplay
+- Turn-based logic with X and O markers
+- Winner detection and game reset functionality
+- Responsive layout to handle various screen sizes
+
+---
+
+##  Tech Stack
+
+- **React** (via Vite) — lightweight and lightning-fast front-end setup  
+- **Vite** — handle hot module reloading and optimized development builds  
+- **JavaScript (ES6+)** — intuitive and maintainable logic  
+- **Netlify** — streamlined continuous deployment from GitHub
+
+---
+
+##  Live Preview
+
+Check out the live version of the game here:  
+[Play Tic Tac Toe Online](https://montaveons-tic-tac-toe1.netlify.app/)
+
+---
+
+##  Installation & Setup
+
+To run this project locally:
+
+```bash
+git clone https://github.com/workdesigntae/Mon-Taveon-s-Tic-Tac-Toe1.git
+cd Mon-Taveon-s-Tic-Tac-Toe1
+npm install
+npm run dev
