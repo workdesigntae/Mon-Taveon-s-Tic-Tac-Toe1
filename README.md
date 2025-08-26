@@ -34,7 +34,7 @@ Check out the live version of the game here:
 [Play Tic Tac Toe Online](https://montaveons-tic-tac-toe1.netlify.app/)
 
 *This project was built as part of my application for Chingu.io.
-If the Netlify demo doesn’t function correctly, please run it locally using the instructions above.* *BELOW*
+If the Netlify demo doesn’t function correctly, please run it locally using the instructions above.* *BELOW* ⬇️
 
 ---
 
