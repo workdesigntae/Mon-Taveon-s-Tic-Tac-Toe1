@@ -40,3 +40,5 @@ git clone https://github.com/workdesigntae/Mon-Taveon-s-Tic-Tac-Toe1.git
 cd Mon-Taveon-s-Tic-Tac-Toe1
 npm install
 npm run dev
+
+Live Link: http://127.0.0.1:5500/
